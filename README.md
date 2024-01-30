@@ -1,3 +1,3 @@
-Codding summer school
+Welcome to Codding summer school
 
-this is daty 1 file 
+This is my day 1 file 
